@@ -1,0 +1,17 @@
+[
+    {
+        "id": "BUG001",
+        "title": "Login fails with valid credentials",
+        "description": "Users cannot login even when correct username and password are entered."
+    },
+    {
+        "id": "BUG002",
+        "title": "Payment page crashes",
+        "description": "Application crashes when users submit a payment using a credit card."
+    },
+    {
+        "id": "BUG003",
+        "title": "Product search returns incorrect results",
+        "description": "Searching for a product displays unrelated products."
+    }
+]
